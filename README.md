@@ -23,6 +23,7 @@ Official support sites: [Official Github Repo](https://github.com/fstltna/mud-ch
         Email::Sender::Simple qw(sendmail)
 
 3. On Ubuntu you need to run this:
+
         sudo apt-get install libdbd-mysql-perl
 
 4. Create the required extra fields in the JV-LD backend configuration as described in the file **JV-LD_ExtraFields.txt**
