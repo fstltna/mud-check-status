@@ -1,0 +1,31 @@
+Telnet Host - type = text
+Telnet Port - type = text
+Nodes - type text
+Files - type text
+Doors - type text
+MUD Operating System - type dropdown, options:
+        DOS
+        Windows
+        Linux
+        Apple
+        Amiga
+        C-64
+        Tandy
+        Texas Instruments
+        Other
+MUD Software - type dropdown, options:
+        AberMUD
+        CoffeeMUD
+        DikuMUD
+        Hourglass
+        LPmud
+        Simutronics
+        TinyMUD
+        Other MUD (suggest software)
+Last Scan Date - type date
+        Disable user edits
+Last Check Status - type dropdown, options:
+        Active
+        Unreachable
+        -- Disable user edits
+Notifier Email - type email

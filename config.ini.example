@@ -1,0 +1,6 @@
+DB_User	root
+DB_Pswd	foobar
+DB_DBName	joomla
+DB_DBtblpfx	zzz_
+Email_Subj	Your MUD is unreachable
+Email_From	foo@bar.com
